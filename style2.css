@@ -1,0 +1,54 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  * {
+    box-sizing: border-box;
+  
+  }
+  
+  .mybody{
+    width: 50%;
+    padding: 20px;
+    background-color: rgb(134, 151, 117);
+  }
+  
+  input{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(65, 52, 177);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+  }
+  
+  input:focus{
+    background-color: blanchedalmond;
+    border: none;
+  }
+  
+  .registration{
+    width: 100%;
+    cursor: pointer;
+    background-color:  rgb(9, 107, 110);
+    border: 1px solid black;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(9, 107, 110);
+    width: 100%;
+    font-size: 50px;
+  }
+   
+  div{
+    background-color: rgb(230, 222, 222);
+    border:1px solid white; 
+    border-radius:2px;
+    padding: 20px;
+  }
+  
